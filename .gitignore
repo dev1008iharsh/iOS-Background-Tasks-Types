@@ -1,0 +1,42 @@
+#######################################
+
+iOS Simple .gitignore
+
+#######################################
+
+Xcode build files
+
+build/
+DerivedData/
+
+User-specific files
+
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+
+Swift Package Manager
+
+.build/
+
+CocoaPods (remove if not using)
+
+Pods/
+
+macOS system files
+
+.DS_Store
+
+Logs
+
+*.log
+
+Environment variables (secrets)
+
+.env
+
+#######################################
+
+End of File
+
+#######################
