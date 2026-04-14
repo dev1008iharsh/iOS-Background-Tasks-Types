@@ -1,0 +1,13 @@
+cat <<EOF > .gitignore
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+.build/
+Pods/
+.DS_Store
+*.log
+.env
+EOF
+
